@@ -1,0 +1,8 @@
+visitor/VisitorPessoaCSV.class
+visitor/Visitor.class
+visitor/Gerente.class
+visitor/Pessoa.class
+visitor/Diretor.class
+visitor/VisitorPessoaXML.class
+visitor/Atendente.class
+visitor/VisitorPessoaJSON.class
